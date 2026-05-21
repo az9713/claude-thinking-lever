@@ -75,4 +75,4 @@ Set effort in Claude Code with `/effort <level>` or `--effort <level>`.
 
 ## Source
 
-Both documents were distilled from the YouTube transcript of the video linked above using GPT-4.5.
+Both documents were distilled from the YouTube transcript of the video linked above using GPT-5.5.
