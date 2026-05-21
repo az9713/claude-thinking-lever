@@ -75,4 +75,4 @@ Set effort in Claude Code with `/effort <level>` or `--effort <level>`.
 
 ## Source
 
-Raw transcript in `.ignore/transcript.txt` (not committed — excluded via `.gitignore`).
+Distilled from the YouTube transcript of the video linked above.
